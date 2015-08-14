@@ -1,0 +1,16 @@
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\Interop.MSScriptControl.dll
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.vbproj.ResolveComReference.cache
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.Resources.resources
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.vbproj.GenerateResource.Cache
+D:\SviluppoNET\ryMedio64\ryMedio64\bin\Debug\ryMedio64.dll
+D:\SviluppoNET\ryMedio64\ryMedio64\bin\Debug\ryMedio64.pdb
+D:\SviluppoNET\ryMedio64\ryMedio64\bin\Debug\ryMedio64.xml
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.dll
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.xml
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.pdb
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.frm_about.resources
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.frm_guida.resources
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.monitor.resources
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.frm_monitor.resources
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.frm_watch.resources
+D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.vbprojResolveAssemblyReference.cache

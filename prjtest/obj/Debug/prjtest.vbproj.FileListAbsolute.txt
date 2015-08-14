@@ -1,0 +1,14 @@
+D:\SviluppoNET\ryMedio64\prjtest\bin\Debug\prjtest.exe.config
+D:\SviluppoNET\ryMedio64\prjtest\bin\Debug\prjtest.exe
+D:\SviluppoNET\ryMedio64\prjtest\bin\Debug\prjtest.pdb
+D:\SviluppoNET\ryMedio64\prjtest\bin\Debug\prjtest.xml
+D:\SviluppoNET\ryMedio64\prjtest\bin\Debug\ryMedio64.dll
+D:\SviluppoNET\ryMedio64\prjtest\bin\Debug\ryMedio64.pdb
+D:\SviluppoNET\ryMedio64\prjtest\bin\Debug\ryMedio64.xml
+D:\SviluppoNET\ryMedio64\prjtest\obj\Debug\prjtest.vbprojResolveAssemblyReference.cache
+D:\SviluppoNET\ryMedio64\prjtest\obj\Debug\prjtest.Form1.resources
+D:\SviluppoNET\ryMedio64\prjtest\obj\Debug\prjtest.Resources.resources
+D:\SviluppoNET\ryMedio64\prjtest\obj\Debug\prjtest.vbproj.GenerateResource.Cache
+D:\SviluppoNET\ryMedio64\prjtest\obj\Debug\prjtest.exe
+D:\SviluppoNET\ryMedio64\prjtest\obj\Debug\prjtest.xml
+D:\SviluppoNET\ryMedio64\prjtest\obj\Debug\prjtest.pdb
