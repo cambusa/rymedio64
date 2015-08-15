@@ -1,4 +1,15 @@
-﻿Option Explicit On
+﻿'************************************************************************
+'* Name:            debug.vb                                            *
+'* Project:         ryMedio                                             *
+'* Version:         2.0                                                 *
+'* Description:     Debugger for VBScript                               *
+'* Copyright (C):   2015 Rodolfo Calzetti                               *
+'*                  License GNU LESSER GENERAL LICENSE Version 3        *
+'* Contact:         https://github.com/cambusa                          *
+'*                  postmaster@rudyz.net                                *
+'************************************************************************
+
+Option Explicit On
 
 Imports System.Text.RegularExpressions
 Imports ryMedio64.moduleDebug.EnumTipoRiga
@@ -137,11 +148,12 @@ Module moduleDebug
 
     End Structure
 
-    Public Function AnalizzaSorgente(ObjRegEx As Regex, Directory As String, ByVal Text As String, ByRef VettRighe() As StructRiga, ByRef VettEval() As StructValutazione, ByRef VettFunct() As StructFunction) As Boolean
+    Public Function AnalizzaSorgente(Directory As String, ByVal Text As String, ByRef VettRighe() As StructRiga, ByRef VettEval() As StructValutazione, ByRef VettFunct() As StructFunction) As Boolean
 
         On Error GoTo ErrorProcedure
 
         Dim Esito As Boolean
+        Dim ObjRegEx As Regex
         Dim MaxRiga As Long
         Dim M As MatchCollection
         Dim S As MatchCollection

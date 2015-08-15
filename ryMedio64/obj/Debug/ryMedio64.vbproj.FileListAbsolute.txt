@@ -13,4 +13,3 @@ D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.frm_guida.resources
 D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.monitor.resources
 D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.frm_monitor.resources
 D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.frm_watch.resources
-D:\SviluppoNET\ryMedio64\ryMedio64\obj\Debug\ryMedio64.vbprojResolveAssemblyReference.cache

@@ -1,4 +1,15 @@
-﻿Option Explicit On
+﻿'************************************************************************
+'* Name:            debugparser.vb                                     *
+'* Project:         ryMedio                                             *
+'* Version:         2.0                                                 *
+'* Description:     Debugger for VBScript                               *
+'* Copyright (C):   2015 Rodolfo Calzetti                               *
+'*                  License GNU LESSER GENERAL LICENSE Version 3        *
+'* Contact:         https://github.com/cambusa                          *
+'*                  postmaster@rudyz.net                                *
+'************************************************************************
+
+Option Explicit On
 
 Imports System.Text.RegularExpressions
 Imports MSScriptControl
@@ -10,7 +21,6 @@ Imports ryMedio64.moduleDebug.EnumTipoRiga
 Public Class debugParser
 
     Dim PropSource As String
-    Dim PropRegEx As Regex
     Dim PropDirectory As String
     Dim PropQueryType As EnumQueryType
     Dim PropTimeout As Long
@@ -45,8 +55,6 @@ Public Class debugParser
 
         On Error Resume Next
 
-        'PropRegEx = New Regex("", RegexOptions.Multiline And RegexOptions.IgnoreCase)
-
         PropDirectory = ""
         PropQueryType = qtEvent
         PropTimeout = 600
@@ -67,7 +75,7 @@ Public Class debugParser
 
             PropSource = value
 
-            AnalizzaSorgente(PropRegEx, Directory, PropSource, VettRighe, VettEval, VettFunct)
+            AnalizzaSorgente(Directory, PropSource, VettRighe, VettEval, VettFunct)
 
         End Set
 

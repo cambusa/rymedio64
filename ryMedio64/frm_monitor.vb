@@ -1,4 +1,15 @@
-﻿Option Explicit On
+﻿'************************************************************************
+'* Name:            frm_monitor.vb                                      *
+'* Project:         ryMedio                                             *
+'* Version:         2.0                                                 *
+'* Description:     Debugger for VBScript                               *
+'* Copyright (C):   2015 Rodolfo Calzetti                               *
+'*                  License GNU LESSER GENERAL LICENSE Version 3        *
+'* Contact:         https://github.com/cambusa                          *
+'*                  postmaster@rudyz.net                                *
+'************************************************************************
+
+Option Explicit On
 
 Imports ryMedio64.debugEnumerator.EnumQueryType
 
