@@ -12,3 +12,17 @@ D:\SviluppoNET\ryMedio64\prjtest\obj\Debug\prjtest.vbproj.GenerateResource.Cache
 D:\SviluppoNET\ryMedio64\prjtest\obj\Debug\prjtest.exe
 D:\SviluppoNET\ryMedio64\prjtest\obj\Debug\prjtest.xml
 D:\SviluppoNET\ryMedio64\prjtest\obj\Debug\prjtest.pdb
+D:\GitHub\rymedio64\prjtest\bin\Debug\prjtest.exe.config
+D:\GitHub\rymedio64\prjtest\obj\Debug\prjtest.exe
+D:\GitHub\rymedio64\prjtest\obj\Debug\prjtest.xml
+D:\GitHub\rymedio64\prjtest\obj\Debug\prjtest.pdb
+D:\GitHub\rymedio64\prjtest\bin\Debug\prjtest.exe
+D:\GitHub\rymedio64\prjtest\bin\Debug\prjtest.pdb
+D:\GitHub\rymedio64\prjtest\bin\Debug\prjtest.xml
+D:\GitHub\rymedio64\prjtest\bin\Debug\ryMedio64.dll
+D:\GitHub\rymedio64\prjtest\bin\Debug\ryMedio64.pdb
+D:\GitHub\rymedio64\prjtest\bin\Debug\ryMedio64.xml
+D:\GitHub\rymedio64\prjtest\obj\Debug\prjtest.vbprojResolveAssemblyReference.cache
+D:\GitHub\rymedio64\prjtest\obj\Debug\prjtest.Form1.resources
+D:\GitHub\rymedio64\prjtest\obj\Debug\prjtest.Resources.resources
+D:\GitHub\rymedio64\prjtest\obj\Debug\prjtest.vbproj.GenerateResource.Cache
